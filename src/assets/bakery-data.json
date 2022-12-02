@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Kunefe (Kunāfah)",
+      "type":"Pastry",
+      "diet":"Vegetarian",
+      "description": "Crunchy layers of shredded and buttered kataifi dough, filled with cheese cream flavored with cardamom, and drenched in a sugar syrup infused with lemon juice and orange blossom water. Topped with pistachios and served warm.",
+      "price": 10.99,
+      "image": "images/kunefe.webp"
+    },
+    {
+      "name": "Güllaç (Rosy Dish)",
+      "type":"Pastry",
+      "diet":"Vegetarian",
+      "description": "A unique Turkish dessert that is the most popular during Ramadan. Layers of thin, cornstarch pastry soaked in rosewater-infused milk and stuffed with walnuts.",
+      "price": 4.99,
+      "image": "images/gullac.jpg"
+    },
+    {
+      "name": "Pistachio Baklava",
+      "type":"Pastry",
+      "diet":"Vegetarian",
+      "description": "Traditional pastry dessert of Turkey. Layered pastry dessert made of filo pastry, filled with chopped pistachio, and sweetened with special syrup. Gluten-free option available.",
+      "price": 5.99,
+      "image": "images/baklava-p.jpg"
+    },
+    {
+        "name": "Walnut Baklava",
+        "type":"Pastry",
+        "diet":"Vegetarian",
+        "description": "Layered pastry dessert made of filo pastry, filled with chopped walnuts, and sweetened with special syrup. Gluten-free option available.",
+        "price": 4.99,
+        "image": "images/cevizli-baklava.jpg"
+    },
+    {
+      "name": "Lavas Puff Bread",
+      "type":"Bread",
+      "diet":"Nut-free",
+      "description": "The famous Turkish puffed flatbread, also called 'lavas', to wrap kebabs as durum. Made from a simple dough, sprinkled with sprinkled with nigella seeds and cooked in a traditional oven so it crisps and puffs-up.",
+      "price": 2.99,
+      "image": "/images/puff-bread.jpg"
+    },
+    {
+      "name": "Sigara Böreği (Cripsy Cheese Rolls)",
+      "type":"Pastry",
+      "diet":"Nut-free",
+      "description": "Fried crispy rolls of thin dough stuffed with cheese and parsley.",
+      "price": 3.99,
+      "image": "images/sigara-boregi.jpg"
+    },
+    {
+      "name": "Su Böreği (Water Borek with Cheese)",
+      "type":"Pastry",
+      "diet":"Nut-free",
+      "description": "Everyone's favorite borek in Turkey! Baked dough sheets filled with cheese, parsley, and minced meat.",
+      "price": 5.99,
+      "image": "images/kiymali-su-boregi.jpg"
+    },
+    {
+      "name": "Lokma",
+      "type":"Pastry",
+      "diet":"Vegetarian",
+      "description": "Sugar-packed dessert made with a mixture of flour, sugar, yeast, and salt, which is deep-fried and then bathed in syrup or honey. 5 pieces per portion.",
+      "price": 6.99,
+      "image": "images/lokma.jpg"
+    },
+    {
+      "name": "Ramadan Pide",
+      "type":"Bread",
+      "diet":"Gluten-free",
+      "description": "Soft bread traditionally baked in Turkey for the iftar and sahur meals during the month of Ramadan.Gluten-free option available.",
+      "price": 4.99,
+      "image": "images/pide.jpg"
+    },
+    {
+        "name": "Apple Cookies",
+        "type":"Cookie",
+        "diet":"Vegetarian",
+        "description": "Melt-in-the-mouth cookies made with crispy cookie dough filled with apple, cinnamon, walnuts.",
+        "price": 1.99,
+        "image": "images/elmali-kurabiye.jpg"
+      },
+    {
+      "name": "Katmer",
+      "type":"Pastry",
+      "diet":"Vegetarian",
+      "description": "Usually served for breakfast. Crisp phyllo dough dessert filled with pistachios and cream.",
+      "price": 7.99,
+      "image": "images/katmer.jpg"
+    },
+    {
+        "name": "'Flour' Cookies",
+        "type":"Cookie",
+        "diet":"Vegetarian",
+        "description": "Traditional un kurabiyesi. Delicious melt-in-the-mouth cookie covered with powdered sugar and filled with pistachios.",
+        "price": 1.99,
+        "image": "images/un.jpg"
+      },
+      {
+        "name": "Acma",
+        "type":"Pastry",
+        "diet":"Vegetarian",
+        "description": "Traditional Turkish style soft sweet bagels usually eaten during breakfast. Made with twisted layers of dough and butter that melts in your mouth. Sprinkled with sesame seeds.",
+        "price": 1.99,
+        "image": "images/acma.jpg"
+      },
+      {
+        "name": "Cornbread",
+        "type":"Bread",
+        "diet":"Vegetarian",
+        "description": "Traditional bread of Black Sea Region of Turkey made with cornmeal.",
+        "price": 1.99,
+        "image": "images/misir-ekmegi.webp"
+      },
+      {
+        "name": "Simit",
+        "type":"Bread",
+        "diet":"Vegetarian",
+        "description": "Circular bread encrusted with sesame seeds. Essential for Turkish breakfast!",
+        "price": 1.99,
+        "image": "images/Turkish-bagel-simit.jpg"
+      }
+  ]
