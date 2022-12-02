@@ -109,15 +109,11 @@ function App() {
     }
   };
 
-  // if (item.diet.includes(diet)) {
-  //   filteredData.filter(matchesFilterDiet);
-  // } 
-
   return (
     <div className="App">
 
       <div className="logo-name">
-        <img src="images/logo.jpg" />
+        <img src="images/evil-eye-2.jpg" />
         <h1>KISMET BAKERY</h1>
       </div>
 
