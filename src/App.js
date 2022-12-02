@@ -89,17 +89,6 @@ function App() {
   }
 
 
-  const matchesFilterDiet = item => {
-    // all items should be shown when no filter is selected
-    if (diet === "All") {
-      return true
-    } else if (diet === item.diet) {
-      return true
-    } else {
-      return false
-    }
-  }
-
   const selectFilterDiet = event => {
     if (event.target.value === "All") {
       setDiet("All");
