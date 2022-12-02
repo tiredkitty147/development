@@ -2,7 +2,7 @@ import './Aggregator.css';
 
 const Aggregator = (props) => {
     return (
-        <p>{props.name}</p>
+        <p className='name'>{props.name}</p>
     )
 }
 
