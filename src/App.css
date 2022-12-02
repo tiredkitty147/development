@@ -56,9 +56,16 @@
   margin:20px;
 }
 
-.sorting-container p{
+/* .sorting-container p{
   color: #a4a1a1;
   font-size: 14px;
   font-weight: 300;
   margin:20px;
+} */
+
+.favorites-list{
+  color: black;
+  font-size: 16px;
+  margin:20px;
+  font-weight: 400;
 }
