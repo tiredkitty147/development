@@ -22,7 +22,14 @@ Lastly, I considered consistency when I was designing by webpage. I made sure th
 
 ### Organization of Components
 
+I have created two components. The first component is for the items and it is called BakeryItem.js. In this component, I create a bakery item and add the image, name, type, diet, description, price and the button to add/remove. This component retuns the bakery item and its values. 
+The second one, called Aggregator.js, is the aggregator component that shows the items and the aggregtor value. This returns the name of the item that is added to the favorites list.
+
 ### How Data is Passed Down Through Components
 
+I provide my BakeryItem component with a props parameter. This allows me to make my component dynamic and change its behaviour based on what I pass in. This also allows me to access and call addToCart function in BakeryItem component by using props.addToCart. Calling props.addToCart in the BakeryItem component calls the function addToCart in App.js. To access the bakery items, I use bakeryData that I get from bakery-data.json and map it to BakeryItem components to list my items. I also pass props parameter to my Aggregator component. In Aggregator component, I return props.name. This allows me to return the name of the bakery item. In App.js, I map cartItems and set 'name' variable of Aggregator.js equal to item.name. With this, when props.name is returned in Aggregator.js, it returns item.name. 
+
 ### How the User Triggers State Changes
+
+
 
