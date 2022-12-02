@@ -31,5 +31,10 @@ I provide my BakeryItem component with a props parameter. This allows me to make
 
 ### How the User Triggers State Changes
 
+In order to implement sorting, first I used state. I wanted to keep track of the sorting that the user chooses. I used React's built-in useState hook. I defined variable 'sorted' and 'setSorted' function that I use to update 'sorted'. 
+Then, I defined a function called handleCheck which calles setSorted and sets the value of 'sorted'.
+I added an onChange event on each of the buttons for sorting. When the user clicks on a sorting option, the onChange event triggers handleCheck function. For example, when the user chooses 'Lowest Price' option for sorting, the handleCheck function takes in this value and passes in setSorted to set the 'sorted' variable to 'Lowest Price'.
+I used if statements to check which 'sorted' option has been chosen and called sort() function on the filteredData to sort the items accordingly. 
+
 
 
