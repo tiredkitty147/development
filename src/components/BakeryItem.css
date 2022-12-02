@@ -1,0 +1,39 @@
+.BakeryItem{
+    /* border: solid black; */
+    background-color: #f9f9f9;
+    width: 500px;
+    height:600px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.BakeryItem p{
+    margin-left:20px;
+}
+
+.BakeryItem h1{
+    margin-left:20px;
+}
+
+.BakeryItem img{
+    height:300px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+.BakeryItem button{
+    margin-left:20px;
+    border: 5px solid transparent;
+    border-radius: 10px;
+    background-color: pink;
+    cursor: pointer;
+}
+
+.InCart button{
+  background-color: purple!important;
+}
+
+
+
