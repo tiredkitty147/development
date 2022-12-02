@@ -180,11 +180,11 @@ function App() {
           <div className='other'>
             <h2>Other</h2>
 
-            <p>Favorites List:</p>
+            <p className='favorites-list'>Favorites List:</p>
             {cartItems.map((item, index) => (<Aggregator name={item.name} />))}
 
             {/* render a list of items in the cart */}
-            <p>Favorites Price: ${calculateTotal()}</p>
+            <p className='favorites-list'>Favorites Price: ${calculateTotal()}</p>
           </div>
 
         </div>
