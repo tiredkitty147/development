@@ -113,7 +113,7 @@ function App() {
     <div className="App">
 
       <div className="logo-name">
-        <img src="images/evil-eye-2.jpg" />
+        <img src="images/evil-eye.jpeg" />
         <h1>KISMET BAKERY</h1>
       </div>
 
