@@ -11,6 +11,15 @@ The application I created is an interface that includes a list of items of a bak
 
 ### Usability Principles Considered
 
+Some of the principles I considered where efficiency, effectivity, customisability and consistency.
+For effectivity, I wanted to be sure that the user reached their goal when they are using my application. My application provides suitable functionality and this allows the users to do tasks effectively. I only put necessary widgets and buttons on my webpage and avoided including unneccesarry functionalities so that the user is not overwhelmed or distracted. 
+
+For efficieny, I made sure that the user can reach their goal as quickly as possible. I wanted the user to accomplish their tasks in a short amount of time. Therefore, I designed my application so that it requires a minimal time to execute an action on the website. I designed my interface widgets such as the sidebar and the aggregator simple so that it is easy to use. I added default options so that the user can go back to start when they want to.
+
+Moreover, I made my webpage customizable so that everything on the interface suits the user and the user has the power. My application is flexible enough to support different ways for completing a task. Combinations of sorting and filtering work together so that the user can try different approaches when they are reaching their goal. The users can also add and remove items to/from the favorites list as they wish. 
+
+Lastly, I considered consistency when I was designing by webpage. I made sure that I followed a consistent simple design and everything fits well together on my application. By implementing consistency, I wanted the user to easily reuse a pattern once learned. When using the application, the user would know what 'Add to Favorites' or 'Remove from Favorites' buttons do. They would know how the filtering/sorting buttons work. 
+
 ### Organization of Components
 
 ### How Data is Passed Down Through Components
